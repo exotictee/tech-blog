@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-purple {
+    background-image: url('/assets/img/bg-01-free-img.jpg');
+}
