@@ -25,7 +25,7 @@ export default {
 
 <template>
   <div class="bg-purple min-h-screen object-cover object-center bg-no-repeat">
-    <navbar />
+    <navbar :page="'index'" />
 
     <div class="px-20 mt-32">
       <h2 class="text-white text-2xl font-bold">What I Do?</h2>
