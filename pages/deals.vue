@@ -6,7 +6,7 @@
         </div>
     </div>
     <div class="bg-white">
-        <Logocard />
+        <LogoCard />
     </div>
     <div>
         <hr class="w-full my-2 sm:my-4 md:my-6 lg:my-8 bg-gray-200">
@@ -17,8 +17,8 @@
     <div>
         <hr class="w-full my-2 sm:my-4 md:my-6 lg:my-8 bg-gray-200">
     </div>
-    <div>
-        <Slidelogo />
+    <div class="mt-44">
+        <SlideLogo />
     </div>
     <div class="bg-purple min-h-screen object-cover object-center bg-no-repeat">
         <Footer />

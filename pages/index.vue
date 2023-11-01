@@ -56,9 +56,9 @@ export default {
     </div>
 
   </div>
-  <Slidelogo />
-  <Imagecard />
-  <Logocard />
+  <SlideLogo />
+  <ImageCard />
+  <LogoCard />
   <Card />
   <div class="bg-purple min-h-screen object-cover object-center bg-no-repeat">
     <Footer />

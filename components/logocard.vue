@@ -4,8 +4,8 @@
         <h1 v-if="$route.path === '/'" class="text-5xl font-extrabold pt-32 pb-20 text-center">DEALS</h1>
 
         <!-- Display a vertical lime line on other pages -->
-        <div v-else class="flex items-center justify-center h-16  my-12">
-            <div class="w-4 h-full border-l-4 border-lime-600 mt-36"></div>
+        <div v-else>
+            <VertLine />
         </div>
 
         <div class="flex flex-row w-full px-32 space-x-3 pt-24">
